@@ -1,3 +1,4 @@
+![Uploading Screenshot 2021-04-05 at 9.00.42 PM.png…]()
 # AI-CHATBOT
 To run this code you should have python version of 3.6 and pip installed
 Packages to be installed through pip:  -nltk[natural language tool kit]

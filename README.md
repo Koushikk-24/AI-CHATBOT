@@ -1,4 +1,5 @@
-![Uploading Screenshot 2021-04-05 at 9.00.42 PM.png…]()
+<img width="1440" alt="Screenshot 2021-04-05 at 9 00 42 PM" src="https://user-images.githubusercontent.com/73252546/113592283-92d74c00-9652-11eb-8354-6f7e6a010151.png">
+
 # AI-CHATBOT
 To run this code you should have python version of 3.6 and pip installed
 Packages to be installed through pip:  -nltk[natural language tool kit]

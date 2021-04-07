@@ -17,8 +17,8 @@
          "context_set": ""
         },
         {"tag": "education",
-         "patterns": ["Whats your education", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
-         "responses": ["Iam undergraduating in computer science", "Cookies are on the menu!"],
+         "patterns": ["Whats your education"],
+         "responses": ["Iam undergraduating in computer science"],
          "context_set": ""
         }
    ]

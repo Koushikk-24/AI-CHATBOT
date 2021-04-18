@@ -32,3 +32,7 @@ And you can see few folders were created!
 - If you are facing any issue feel free to [open an isuue](https://github.com/Koushikk-24/AI-CHATBOT/issues)
 - And if you think you can add new features you can make a [pull-request](https://github.com/Koushikk-24/AI-CHATBOT/pulls)
 
+### :man_technologist: Troubleshoot
+- Go through this [documentation](https://pip.pypa.io/en/stable/installing/) if having any issues with pip.
+- To run this code python 3.6 version is must so it would be better if you create a [virtual env] (https://robbinespu.gitlab.io/blog/2019/07/23/Python-36-with-VirtualEnv/) for python 3.6 if you are using higher versions.
+

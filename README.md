@@ -34,5 +34,5 @@ And you can see few folders were created!
 
 ### :man_technologist: Troubleshoot
 - Go through this [documentation](https://pip.pypa.io/en/stable/installing/) if having any issues with pip.
-- To run this code python 3.6 version is must so it would be better if you create a [virtual env] (https://robbinespu.gitlab.io/blog/2019/07/23/Python-36-with-VirtualEnv/) for python 3.6 if you are using higher versions.
+- To run this code python 3.6 version is must so it would be better if you create a [virtual env](https://robbinespu.gitlab.io/blog/2019/07/23/Python-36-with-VirtualEnv/) for python 3.6 if you are using higher versions.
 

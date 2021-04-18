@@ -1,6 +1,6 @@
 # AI-CHATBOT
 
-## GETTING STARTED
+## :rocket: GETTING STARTED
 To run this code you should have python version of 3.6 and pip installed should be installed in your machine to run the following commands,
 ```
 -pip install nltk
@@ -20,7 +20,7 @@ And you can see few folders were created!
 
 <img width="228" alt="Screenshot 2021-04-18 at 11 29 51 AM" src="https://user-images.githubusercontent.com/73252546/115135960-30128700-a03a-11eb-82b3-88f9a6a58717.png">
 
-## FEATURES
+## 	:sparkles: FEATURES
 -You can now chat with your own bot.
 
 <img width="401" alt="Screenshot 2021-04-18 at 11 41 39 AM" src="https://user-images.githubusercontent.com/73252546/115136101-0e65cf80-a03b-11eb-9d42-90df2c120ed8.png">
@@ -29,6 +29,6 @@ And you can see few folders were created!
 -You can customize your own bot by editing in intents.json file and deleting the new folders which were created while the model was training.
 
 ## :raising_hand: ISSUES
-- If you are facing any issue feel free to open an isuue
-- And if you think you can add new features you can make a pull-request
+- If you are facing any issue feel free to [open an isuue](https://github.com/Koushikk-24/AI-CHATBOT/issues)
+- And if you think you can add new features you can make a [pull-request](https://github.com/Koushikk-24/AI-CHATBOT/pulls)
 
